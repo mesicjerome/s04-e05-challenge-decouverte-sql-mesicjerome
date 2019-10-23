@@ -1,0 +1,7 @@
+POST: title, summary, content, publish_date, view_count
+is related to, 11 POST, 0N CATEGORY
+CATEGORY: label
+
+:
+is written by, 01 POST, 0N AUTHOR
+AUTHOR: name, image, email
